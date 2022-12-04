@@ -5,4 +5,6 @@ Personal Details Form: https://jjeerryyy28.github.io/HTML/form.html
 
 Cat-Photo: https://jjeerryyy28.github.io/HTML/catphoto.html
 
+Tribute page for Virat Kohli: https://jjeerryyy28.github.io/HTML/tribute.html
+
 
